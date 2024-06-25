@@ -1,0 +1,12 @@
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\bin\Debug\net8.0\CadastroPostoVacina.Infrastructure.deps.json
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\bin\Debug\net8.0\CadastroPostoVacina.Infrastructure.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\bin\Debug\net8.0\CadastroPostoVacina.Infrastructure.pdb
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\obj\Debug\net8.0\CadastroPostoVacina.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\obj\Debug\net8.0\CadastroPostoVacina.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\obj\Debug\net8.0\CadastroPostoVacina.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\obj\Debug\net8.0\CadastroPostoVacina.Infrastructure.AssemblyInfo.cs
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\obj\Debug\net8.0\CadastroPostoVacina.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\obj\Debug\net8.0\CadastroPostoVacina.Infrastructure.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\obj\Debug\net8.0\refint\CadastroPostoVacina.Infrastructure.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\obj\Debug\net8.0\CadastroPostoVacina.Infrastructure.pdb
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Infrastructure\obj\Debug\net8.0\ref\CadastroPostoVacina.Infrastructure.dll

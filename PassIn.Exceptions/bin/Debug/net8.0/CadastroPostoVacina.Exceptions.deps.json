@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CadastroPostoVacina.Exceptions/1.0.0": {
+        "runtime": {
+          "CadastroPostoVacina.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadastroPostoVacina.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

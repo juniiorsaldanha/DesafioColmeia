@@ -1,0 +1,11 @@
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\bin\Debug\net8.0\CadastroPostoVacina.Exceptions.deps.json
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\bin\Debug\net8.0\CadastroPostoVacina.Exceptions.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\bin\Debug\net8.0\CadastroPostoVacina.Exceptions.pdb
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\obj\Debug\net8.0\CadastroPostoVacina.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\obj\Debug\net8.0\CadastroPostoVacina.Exceptions.AssemblyInfoInputs.cache
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\obj\Debug\net8.0\CadastroPostoVacina.Exceptions.AssemblyInfo.cs
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\obj\Debug\net8.0\CadastroPostoVacina.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\obj\Debug\net8.0\CadastroPostoVacina.Exceptions.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\obj\Debug\net8.0\refint\CadastroPostoVacina.Exceptions.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\obj\Debug\net8.0\CadastroPostoVacina.Exceptions.pdb
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Exceptions\obj\Debug\net8.0\ref\CadastroPostoVacina.Exceptions.dll

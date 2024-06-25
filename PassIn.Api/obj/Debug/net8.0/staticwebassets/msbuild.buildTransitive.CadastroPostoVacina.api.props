@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CadastroPostoVacina.api.props" />
+</Project>

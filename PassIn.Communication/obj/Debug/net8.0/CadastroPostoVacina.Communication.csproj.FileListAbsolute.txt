@@ -1,0 +1,15 @@
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\bin\Debug\net8.0\CadastroPostoVacina.Communication.deps.json
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\bin\Debug\net8.0\CadastroPostoVacina.Communication.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\bin\Debug\net8.0\CadastroPostoVacina.Communication.pdb
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\obj\Debug\net8.0\CadastroPostoVacina.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\obj\Debug\net8.0\CadastroPostoVacina.Communication.AssemblyInfoInputs.cache
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\obj\Debug\net8.0\CadastroPostoVacina.Communication.AssemblyInfo.cs
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\obj\Debug\net8.0\CadastroPostoVacina.Communication.csproj.CoreCompileInputs.cache
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\obj\Debug\net8.0\CadastroPostoVacina.Communication.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\obj\Debug\net8.0\refint\CadastroPostoVacina.Communication.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\obj\Debug\net8.0\CadastroPostoVacina.Communication.pdb
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\obj\Debug\net8.0\ref\CadastroPostoVacina.Communication.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\bin\Debug\net8.0\CadastroPostoVacina.Infrastructure.dll
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\bin\Debug\net8.0\CadastroPostoVacina.Infrastructure.pdb
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\obj\Debug\net8.0\CadastroPostoVacina.Communication.csproj.AssemblyReference.cache
+C:\Users\gsald\Desktop\DesafioColmeia\PassIn.Communication\obj\Debug\net8.0\Cadastro.76925A31.Up2Date
